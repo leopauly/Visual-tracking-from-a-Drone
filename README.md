@@ -14,7 +14,7 @@ Directories:
 1. OpenCV : Contains the code of the first version of the tracking algorithm 
 2. OpenCV_live : Contains modified code for deploying the algorithm in realtime in a drone
 3. OpenCV_video : Contains code for testing the algorithm on a pre-recorded video 
-4. Results_Demo : Has demo videos of our algorithm working on pre-recorded videos
+4. Results_Demo : Has demo videos of the algorithm working on pre-recorded videos
 
 
 How to use these programs:
