@@ -1,8 +1,11 @@
 # Visual-tracking-from-a-Drone
 Code for visual tracking of objects on ground from a drone.
 
-
-The objects are tracked on the ground based on following 
+The objects are tracked on the ground based on following features:
+1. Colour
+2. Size
+3. Shape
+4. Distance between same obejects in adjacent frames.
 
 
 Directories:
@@ -15,12 +18,16 @@ Directories:
 For using this programs:
 
 1.Download the repositories
+
 2.Open the repository
+
 3.Delete the build folder.
+
 4.Use the following commands to build the code from source file:
 $ mkdir build
 $ cd build
 $ cmake ..
 $ make 
+
 5.Use the following command to run the binary file:
 $ ./ZED_with_OpenCV
