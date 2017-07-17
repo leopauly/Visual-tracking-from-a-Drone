@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/openCV_live/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/openCV_live/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/openCV_live/build/CMakeFiles/ZED_with_OpenCV.dir
