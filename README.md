@@ -2,10 +2,10 @@
 Code for visual tracking of objects on ground from a drone.
 
 The objects on the ground are tracked based on the following features:
-1. Colour : Each object is given a purticular color
+1. Colour : Each object is given a particular color
 2. Size: The area of the object
 3. Shape : The objects are further filtered out using a roundness parameter 
-4. Distance between same obejects in adjacent frames : This criteria helps to discard tracking of objects which moves beyond a purticular distance between the frames
+4. Distance between same objects in adjacent frames : This criteria helps to discard tracking of objects which moves beyond a particular distance between the frames
 
 Tested on:
 Jetson TX1 running on Ubuntu16.04 with an attached ZED camera being carried on a drone.
@@ -13,7 +13,7 @@ Jetson TX1 running on Ubuntu16.04 with an attached ZED camera being carried on a
 Directories:
 1. OpenCV : Contains the code of the first version of the tracking algorithm 
 2. OpenCV_live : Contains modified code for deploying the algorithm in realtime in a drone
-3. OpenCV_video : Contains code for testing the algorithm on a prerecorded video 
+3. OpenCV_video : Contains code for testing the algorithm on a pre-recorded video 
 4. Results_Demo : Has demo videos of our algorithm working on pre-recorded videos
 
 
