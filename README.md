@@ -21,9 +21,9 @@ For using this programs:
 2. Open the repository
 3. Delete the build folder
 4. Use the following commands to build the code from source file:
-$ mkdir build
-$ cd build
-$ cmake ..
-$ make 
+ $ mkdir build
+ $ cd build
+ $ cmake ..
+ $ make 
 5. Use the following command to run the binary file:
-$ ./ZED_with_OpenCV
+ $ ./ZED_with_OpenCV
