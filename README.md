@@ -14,7 +14,7 @@ Directories:
 
 For using this programs:
 
-1.Download the repositories.
+1.Download the repositories
 2.Open the repository
 3.Delete the build folder.
 4.Use the following commands to build the code from source file:
