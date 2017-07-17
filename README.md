@@ -20,7 +20,7 @@ Directories:
 How to use these programs:
 1. Download the repositories
 2. Open the repository
-3. Delete the build folder
+3. Delete the build folder (In the case of OpenCV_video repository make sure to copy the pre-recorded video in the build folder before deleting it)
 4. Use the following commands to build the code from source file:
  $ mkdir build
  $ cd build
