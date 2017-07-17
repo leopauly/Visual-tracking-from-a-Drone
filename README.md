@@ -25,6 +25,5 @@ $ mkdir build
 $ cd build
 $ cmake ..
 $ make 
-
-5.Use the following command to run the binary file:
+5. Use the following command to run the binary file:
 $ ./ZED_with_OpenCV
